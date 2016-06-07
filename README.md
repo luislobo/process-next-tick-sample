@@ -1,7 +1,6 @@
 # Process Next Tick Sample
 
 This project explains the use of project.nextTick and the importance of using it in events.
-It is also useful in callbacks.
 
 Give it a try running:
 
